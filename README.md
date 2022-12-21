@@ -4,7 +4,7 @@ Created an engaging Dashboard in Power BI that represents the patterns and trend
 
 ### Introduction
 
-**Power BI dashboard is a canvas that is used to create interactive visualizations in order to monitor our business in an intelligent way. It provides us the ability to spot trends, and interact with our business data with it's most important metrics with a single glance. Visualizations encountered on the dashboard are called tiles which can update themselves based on the changing trends. Power BI is a business intelligence tool that has the ability to create supremely dynamic and interative real-time visualizations that can optimise our analysis.**
+**Power BI dashboard is a canvas that is used to create interactive visualizations in order to monitor our business in an intelligent way. It provides us the ability to spot trends, and interact with our business data with it's most important metrics with a single glance. Visualizations encountered on the dashboard are called tiles which can update themselves based on the changing trends. Power BI is a business intelligence tool that has the ability to create supremely dynamic and interactive real-time visualizations that can optimise our analysis.**
 
 ### Description
 
